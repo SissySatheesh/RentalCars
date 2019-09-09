@@ -1,0 +1,95 @@
+[{
+ "Car" : {
+     "make": "Audi",
+	 "model": "A7",
+     "vin": "09AGHY64352JITEG98K",
+     "metadata" : {
+         "Color" : "Black",
+         "Notes" : "Scratches on the front side of the car"
+         },
+     "perdayrent" : {
+        "Price" : 140,
+         "Discount" : 15
+         },
+     "metrics" : {
+         "yoymaintenancecost" : 2190.76,
+         "depreciation": 2256.43,
+         "rentalcount" : {
+             "lastweek" : 4,
+             "yeartodate" : 221
+             }
+         }
+    }
+ },
+{
+ "Car" : {
+     "make": "Tesla",
+	 "model": "A7",
+     "vin": "09AGHY64352JITEG98P",
+     "metadata" : {
+         "Color" : "blue",
+         "Notes" : "Scratches on the Back side of the car"
+         },
+     "perdayrent" : {
+        "Price" : 240,
+         "Discount" : 15
+         },
+     "metrics" : {
+         "yoymaintenancecost" : 2190.76,
+         "depreciation": 2256.43,
+         "rentalcount" : {
+             "lastweek" : 4,
+             "yeartodate" : 241
+             }
+         }
+    }
+ },
+ {
+  "Car" : {
+     "make": "BMW",
+	 "model": "X6",
+     "vin": "09AGHY643528UYITE098K",
+     "metadata" : {
+         "Color" : "blue",
+         "Notes" : "Scratches on the front side of the car"
+         },
+     "perdayrent" : {
+        "Price" : 140,
+         "Discount" : 15
+         },
+     "metrics" : {
+         "yoymaintenancecost" : 2190.76,
+         "depreciation": 2256.43,
+         "rentalcount" : {
+             "lastweek" : 4,
+             "yeartodate" : 221
+             }
+         }
+    }
+ },
+ {
+  "Car" : {
+     "make": "Audi",
+	 "model": "A7",
+     "vin": "09AGHY64352JITEG98U",
+     "metadata" : {
+         "Color" : "Red",
+         "Notes" : "Scratches on the front side of the car"
+         },
+     "perdayrent" : {
+        "Price" : 240,
+         "Discount" : 15
+         },
+     "metrics" : {
+         "yoymaintenancecost" : 2190.76,
+         "depreciation": 2256.43,
+         "rentalcount" : {
+             "lastweek" : 4,
+             "yeartodate" : 241
+             }
+         }
+    }
+ }
+ 
+ ]
+	
